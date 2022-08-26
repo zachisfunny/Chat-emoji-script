@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/zachisfunny/Chat-emoji-script/main/Main'),true))()
